@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/018b6bee-409c-462f-9beb-50946934f0d3.svg)](https://wakatime.com/@018b6bee-409c-462f-9beb-50946934f0d3)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xshubhs&theme=transparent&hide_border=true&langs_count=5" width="100%" /></p>
 
