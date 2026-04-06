@@ -1,6 +1,15 @@
 [![wakatime](https://wakatime.com/badge/user/018b6bee-409c-462f-9beb-50946934f0d3.svg)](https://wakatime.com/@018b6bee-409c-462f-9beb-50946934f0d3)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    2 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Other         2 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Solidity      1 hr 27 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Markdown      1 hr 24 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Bash          1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 <h2 align="center">Gm Gm, I'm Shubham 👋</h2>
