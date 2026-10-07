@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 04 October 2026
+From: 25 October 2023 - To: 05 October 2026
 
-Total Time: 2,985 hrs 50 mins
+Total Time: 2,986 hrs 27 mins
 
-TypeScript                 752 hrs 15 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-Markdown                   517 hrs 13 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Other                      437 hrs 18 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-JavaScript                 375 hrs 7 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Solidity                   335 hrs 4 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+TypeScript                 752 hrs 44 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Markdown                   517 hrs 13 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Other                      444 hrs 2 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+JavaScript                 375 hrs 7 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Solidity                   335 hrs 4 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
 ```
 
 <!--END_SECTION:waka-->
