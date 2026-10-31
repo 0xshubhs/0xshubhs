@@ -1,8 +1,9 @@
-[![wakatime](https://wakatime.com/badge/user/018b6bee-409c-462f-9beb-50946934f0d3.svg)](https://wakatime.com/@018b6bee-409c-462f-9beb-50946934f0d3)
+Gm , I code ! 
+<!--START_SECTION:waka-->[![wakatime](https://wakatime.com/badge/user/018b6bee-409c-462f-9beb-50946934f0d3.svg)](https://wakatime.com/@018b6bee-409c-462f-9beb-50946934f0d3)
 
 <!--START_SECTION:waka-->
-
-```txt
+<!--START_SECTION:waka-->
+<!--START_SECTION:waka```txt
 From: 25 October 2023 - To: 29 October 2026
 
 Total Time: 3,088 hrs 22 mins
