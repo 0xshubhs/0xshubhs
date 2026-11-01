@@ -2,17 +2,17 @@ Gm , I code !
 <!--START_SECTION:waka [![wakatime](https://wakatime.com/badge/user/018b6bee-409c-462f-9beb-50946934f0d3.svg)](https://wakatime.com/@018b6bee-409c-462f-9beb-50946934f0d3) -->
 
 <!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
-<!--START_SECTION:waka```txt
-From: 25 October 2023 - To: 29 October 2026
 
-Total Time: 3,088 hrs 22 mins
+```txt
+From: 25 October 2023 - To: 30 October 2026
 
-TypeScript                 776 hrs               █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-Markdown                   556 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Other                      484 hrs 58 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-JavaScript                 378 hrs 51 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Solidity                   339 hrs 42 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Total Time: 3,092 hrs 50 mins
+
+TypeScript                 776 hrs 17 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Markdown                   558 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Other                      487 hrs 26 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+JavaScript                 378 hrs 55 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Solidity                   339 hrs 42 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
